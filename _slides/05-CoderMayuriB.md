@@ -7,3 +7,5 @@ Caption here
 
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
+
+Testing commit
