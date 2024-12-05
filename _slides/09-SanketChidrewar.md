@@ -1,6 +1,7 @@
 ---
 layout: slide
 title: "Welcome to our slide deck!"
+description: "github workshop"
 ---
 
 Caption here
